@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	infrastructure "main1/Infrastructure"
+	infrastructure "github.com/AmitKumarGS/golang-mongo-layout/Infrastructure"
 
 	"time"
 
