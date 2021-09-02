@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"main1/pkg"
+	"github.com/AmitKumarGS/golang-mongo-layout/pkg"
 
 	"net/http"
 
